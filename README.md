@@ -44,7 +44,7 @@ This integrated approach maintains both local geometric details and global seman
 
 ### 🌐 Project Page
 
-Visit our [**project page**](./index.html) for detailed information, interactive demos, and additional results.
+Visit our [**project page**](https://baiyunshu.github.io/GAUSSIANMORPHING.github.io/) for detailed information, interactive demos, and additional results.
 
 ### 💻 Code Repository
 
